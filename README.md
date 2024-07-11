@@ -20,3 +20,31 @@ While working, I naturally became interested in dynamic logic and stacks that in
 
 새로운 도전에 직면했을 때 두려워하지 않고 적극적으로 해결해 나가며, 개발 외에도 프로젝트의 맥락에 맞추어 기획하고 국내외 다양한 협력자들과 협업하여 실질적인 결과를 도출하는 능력을 갖추고 있습니다.
 
+### Languages 🌐
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
+
+### Web Technologies 🕸️
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
+![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
+
+### Databases 🗄️
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+### APIs & Query Languages 📡
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
+
+### Deployment Tools 🚀
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![fly.io](https://img.shields.io/badge/-fly.io-black?style=flat-square&logo=flydotio)
+
+### Collaboration Tools 🛠️
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![AdobeXD](https://img.shields.io/badge/-AdobeXD-black?style=flat-square&logo=adobexd)
