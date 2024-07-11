@@ -22,14 +22,16 @@ While working, I naturally became interested in dynamic logic and stacks that in
 
 ### Languages 🌐
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+### Frameworks
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
+![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
+
+### Web Technologies 🕸️
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
-
-### Web Technologies 🕸️
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
-![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 
 ### Databases 🗄️
